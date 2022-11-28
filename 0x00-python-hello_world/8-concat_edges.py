@@ -2,4 +2,4 @@
 str = "Object oriented programming with python" "\n"
 
 str = [:]
-print(str)
+print(str "\n")
